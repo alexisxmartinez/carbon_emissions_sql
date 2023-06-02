@@ -55,12 +55,17 @@ On the other hand, the industries with relatively lower total carbon footprints 
 - Commercial & Professional Services with a total footprint of 740.6
 - Software & Services with a total footprint of 690.0
 
-These findings provide insights into the carbon emissions associated with different industries and can be valuable for identifying areas of focus for reducing greenhouse gas emissions.
+
+## 📑 Queries and Code
+
+The SQL queries used in this project can be found in the [jupyter notebook](carbon_emissions_analysis.ipynb.ipynb) file. 
 
 To examine the carbon footprint of each industry in the dataset, the following SQL query was used:
 
+### 🧑‍💻 Query example: 
 ![code](carbonquery.png)
 
-
+### 👨‍🔬 Query output:
+![code](carbonquery.png)
 
 
