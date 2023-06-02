@@ -4,6 +4,7 @@
 
 🔍 The primary focus of this analysis is to investigate and quantify the carbon footprint of products across different stages of production. 
 
+## 📋 Data Description
 ![Factories creating emissions](pollution.jpg)
 Photo by Maxim Tolchinskiy on Unsplash
 
