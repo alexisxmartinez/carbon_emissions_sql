@@ -59,14 +59,7 @@ These findings provide insights into the carbon emissions associated with differ
 
 To examine the carbon footprint of each industry in the dataset, the following SQL query was used:
 
-```sql
-SELECT industry_group,
-    COUNT(company) AS count_industry,
-    ROUND(SUM(carbon_footprint_pcf), 1) AS total_industry_footprint
-FROM product_emissions
-GROUP BY industry_group, year
-HAVING year = 2017
-ORDER BY total_industry_footprint DESC; 
+
 
 
 
