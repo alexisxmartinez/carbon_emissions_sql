@@ -33,8 +33,7 @@ This data is stored in a PostgreSQL database containing one table, `product_emis
 | downstream_percent_total_pcf       | VARCHAR   |
 
 ## 📊 Exploratory Analysis: Carbon Footprint by Industry in 2017 
-
-- 📊 Analyze the carbon footprint of each industry in the dataset, focusing on the year 2017.
+Steps:
 - 🔢 Count the total number of records in the "product_emissions" table, revealing 866 entries.
 - 📋 Retrieve and display a snapshot of the dataset, sorted in descending order based on the year.
 - 📈 Explore various columns, including product name, company, country, industry group, weight in kilograms, carbon footprint (PCF), and percentages of emissions at different stages.
