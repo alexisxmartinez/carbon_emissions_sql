@@ -66,6 +66,6 @@ To examine the carbon footprint of each industry in the dataset, the following S
 ![code](carbonquery.png)
 
 ### 👨‍🔬 Query output:
-![code](carbonquery.png)
+![code_result](queryresult.png)
 
 
