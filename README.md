@@ -59,6 +59,7 @@ These findings provide insights into the carbon emissions associated with differ
 
 To examine the carbon footprint of each industry in the dataset, the following SQL query was used:
 
+![code](carbonquery.png)
 
 
 
