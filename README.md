@@ -1,3 +1,9 @@
+# 🌍🔬 Examining Product Carbon Footprints 📊🌱
+
+📚 This SQL project delves into the fascinating realm of product carbon footprints (PCFs) to explore the environmental impact of various products. The dataset, sourced from nature.com, provides valuable insights into the greenhouse gas emissions associated with different companies and their products. 🌍♻️
+
+🔍 The primary focus of this analysis is to investigate and quantify the carbon footprint of products across different stages of production. 
+
 ![Factories creating emissions](pollution.jpg)
 Photo by Maxim Tolchinskiy on Unsplash
 
