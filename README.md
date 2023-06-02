@@ -68,7 +68,7 @@ On the other hand, the industries with relatively lower total carbon footprints 
 
 ## 📑 Queries and Code
 
-The SQL queries used in this project can be found in the [jupyter notebook](carbon_emissions_analysis.ipynb.ipynb) file. 
+The SQL queries used in this project can be found in the [jupyter notebook](carbon_emissions_analysis.ipynb) file. 
 
 To examine the carbon footprint of each industry in the dataset, the following SQL query was used:
 
